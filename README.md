@@ -1,1 +1,1 @@
-# odin-recipes
+# First project of The Odin Curriculum, this web is going to contain recipes.
